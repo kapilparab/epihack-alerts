@@ -1,0 +1,1 @@
+"""FastAPI email alert microservice."""
